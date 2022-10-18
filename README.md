@@ -20,3 +20,5 @@ cd frontend
 npm i
 npm run dev
 ```
+The program should be available on http://127.0.0.1:5173/ <br />
+If not, check the previous terminal for the correct address
