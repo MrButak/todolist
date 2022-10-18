@@ -9,7 +9,7 @@
 
 **1. In a terminal**
 ```
-git clone https://github.com/MrButak/todolist.git`
+git clone https://github.com/MrButak/todolist.git
 cd todolist
 npm i
 npm start
