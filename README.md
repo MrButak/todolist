@@ -1,11 +1,11 @@
 # Todo list
 
-
+:stopwatch: Time to complete assignment : 1 hour 30 minutes
 ### Technologies<br />
-**Backend** - Node.js / Express.js<br />
-**Frontend** - Vue.js
+**Backend** : Node.js / Express.js<br />
+**Frontend** : Vue.js
 
-### To run
+### How to run the program
 
 **1. In a terminal**
 ```
